@@ -315,3 +315,11 @@
     }
   }
 }
+
+@media (max-width: 576px) {
+  .compliant {
+    &-card {
+      margin: 20px 0;
+    }
+  }
+}
